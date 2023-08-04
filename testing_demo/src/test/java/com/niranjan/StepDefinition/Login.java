@@ -1,4 +1,4 @@
-package com.one.StepDefinitions;
+package com.niranjan.StepDefinition;
 
 import org.junit.Assert;
 import org.openqa.selenium.By;
